@@ -1,4 +1,4 @@
 power
 =====
 
-👊 Power tips for PowerShell Power users 👊
+👊 Power Tips for PowerShell Power Users 👊

@@ -1,0 +1,12 @@
+name: PowerShell Power
+url: http://roachhd.github.io/power/
+description: A stylish Solarized blog PowerShell Extras.
+baseurl: http://roachhd.github.io/power/
+
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

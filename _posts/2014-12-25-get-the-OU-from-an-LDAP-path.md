@@ -16,3 +16,6 @@ $dn = 'OU=Test,OU=People,CN=Testing,OU=Everyone,DC=Company,DC=com'
 
 The code will return the name of the last OU in the LDAP path (LDAP paths are read from right to left, so the last OU is the first OU in the string) and can be easily adjusted to extract other parts. For example, replace the index number 0 with -1 to get the first OU in the path.
 
+---
+Power Tip #2.
+---

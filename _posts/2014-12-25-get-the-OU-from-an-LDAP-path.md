@@ -18,6 +18,6 @@ The code will return the name of the last OU in the LDAP path (LDAP paths are re
 
 ---
 
-Power Tip #2
+###### Power Tip #2
 
 ---
